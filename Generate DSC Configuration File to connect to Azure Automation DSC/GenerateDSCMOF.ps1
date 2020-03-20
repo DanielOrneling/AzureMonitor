@@ -1,3 +1,12 @@
+<#
+Author:		Daniel Örneling
+Date:		20/6/2017
+Updated:    5/3/2020
+Script:  	GenerateDSCMOF.ps1
+Version: 	1.1
+Twitter: 	@DanielOrneling
+#>
+
 # The DSC configuration that will generate metaconfigurations
  [DscLocalConfigurationManager()]
  Configuration DscMetaConfigs
